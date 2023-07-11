@@ -9,10 +9,10 @@
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithya_narisipilli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-narisipilli-59a3b025a/) 
-## My profiles:
+## My CP profiles:
 
-[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/adithya_narisipilli) [codechef](https://www.codechef.com/users/adithya_nitc)
-
+[codeforces](https://codeforces.com/profile/adithya_narisipilli) [codechef](https://www.codechef.com/users/adithya_nitc)
+## My DSA profiles:
 [geeksforgeeks](https://auth.geeksforgeeks.org/user/adithya_narisipilli) [leetcode](https://leetcode.com/adi428/)
 
 # Languages used:
