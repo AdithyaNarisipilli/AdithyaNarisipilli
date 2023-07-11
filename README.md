@@ -8,7 +8,7 @@
 
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithya_narisipilli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-narisipilli-59a3b025a/) 
+[Instagram](https://instagram.com/adithya_narisipilli) [LinkedIn](https://www.linkedin.com/in/adithya-narisipilli-59a3b025a/) 
 ## My CP profiles:
 
 [codeforces](https://codeforces.com/profile/adithya_narisipilli) [codechef](https://www.codechef.com/users/adithya_nitc)
