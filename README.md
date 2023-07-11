@@ -7,21 +7,15 @@
 
 - 📫 How to reach me **narisipilliadithya1010@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/adithya_narisipilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_narisipilli" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adithya_nitc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adithya_nitc" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adithya_narisipilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adithya_narisipilli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adi428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi428" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adithya_narisipilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adithya_narisipilli" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithya_narisipilli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adithya Narisipilli) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyanarisipilli&show_icons=true&locale=en&layout=compact" alt="adithyanarisipilli" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adithyanarisipilli&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adithyanarisipilli&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanarisipilli&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyanarisipilli&show_icons=true&locale=en" alt="adithyanarisipilli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanarisipilli&" alt="adithyanarisipilli" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
