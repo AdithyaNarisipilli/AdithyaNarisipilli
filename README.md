@@ -9,8 +9,7 @@
 
 ## 🌐 Connect with me:
 [Instagram](https://instagram.com/adithya_narisipilli) [LinkedIn](https://www.linkedin.com/in/adithya-narisipilli-59a3b025a/) 
-# Join the community:
-[CodeCaution](https://nas.io/CodeCaution-club)
+
 ## My CP profiles:
 
 [codeforces](https://codeforces.com/profile/adithya_narisipilli) [codechef](https://www.codechef.com/users/adithya_nitc)
