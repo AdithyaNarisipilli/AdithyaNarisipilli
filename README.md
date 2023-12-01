@@ -14,7 +14,7 @@
 
 [codeforces](https://codeforces.com/profile/adithya_narisipilli) [codechef](https://www.codechef.com/users/adithya_nitc)
 ## My DSA profiles:
-[geeksforgeeks](https://auth.geeksforgeeks.org/user/adithya_narisipilli) [leetcode](https://leetcode.com/adi428/)
+[geeksforgeeks](https://auth.geeksforgeeks.org/user/adithya_narisipilli) [leetcode](https://leetcode.com/adithya_narisipilli/)
 
 # Languages used:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
